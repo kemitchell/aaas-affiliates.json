@@ -1,6 +1,6 @@
 {
   "name": "aaas-affiliates",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "list of organizations affiliated with the American Association for the Advancement of Science",
   "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
   "repository": "kemitchell/aaas-affiliates.json"
